@@ -1,0 +1,20 @@
+.object{
+    width:420px;
+    height: 420px;
+}
+.title{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 100px;
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+.first{
+    border-width: 0.3cm;border-color: black;text-align:top;font-size: 50px;font-family: 'Do Hyeon', sans-serif;margin-left: 1cm;}
+.second{
+    font-size: 50px;font-family: 'Do Hyeon', sans-serif;color: gray;margin-left: 1cm;
+}
+.third{
+    font-size:50px;font-family: 'Do Hyeon', sans-serif;margin-left: 1cm;
+}
+
